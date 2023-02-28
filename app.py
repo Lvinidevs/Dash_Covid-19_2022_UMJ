@@ -46,7 +46,7 @@ fig2.update_layout(
 )
 #Layout
 app.layout = html.Div([
-        dbc.Row(dbc.Col(html.Div("UMJ🔹EAD| PAINEL COVID-19 BRASIL(2022)"),
+        dbc.Row(dbc.Col(html.Div("UMJ🔹EAD| PAINEL COVID-19 BRASIL"),
         style={"padding":"15px", "background-color":"black", "color":"white","text-align": "center"}),
         ),
         dbc.Col([html.Div([
